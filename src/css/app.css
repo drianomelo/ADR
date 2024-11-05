@@ -12,18 +12,13 @@
 }
 
 :root {
-  --clr-blue-royal: #4169e1;
-  --clr-blue-electric: #adff00;
-  --clr-blue-dark: #003366;
-  --clr-blue-sky: #87ceeb;
-
-  --clr-orange-intense: #9b82ff;
-  --clr-orange-coral: #ff6347;
-
-  --clr-yellow-gold: #ffc300;
+  --clr-green: #adff00;
+  --clr-purple: #9b82ff;
+  --clr-orange-low: #f6a166;
+  --clr-orange-high: #ee7a2d;
+  --clr-orange-dark: #773c14;
 
   --clr-gray-metallic: #a9a9a9;
-
   --clr-white: #ffffff;
   --clr-black: #000000;
 }

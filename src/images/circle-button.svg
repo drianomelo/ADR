@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="950.36mm" height="954.105mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 19682.8 19760.36"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <font id="FontID0" horiz-adv-x="666" font-variant="normal" style="fill-rule:nonzero" font-style="normal" font-weight="400">
+	<font-face 
+		font-family="Arial">
+		<font-face-src>
+			<font-face-name name="Arial"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="C" horiz-adv-x="721" d="M586.186 253.808l94.773 -23.324c-19.5272,-77.839 -54.9061,-137.396 -106.131,-178.509 -51.3896,-40.942 -114.261,-61.6818 -188.782,-62.214 -77.1835,-0.319678 -139.924,15.1106 -188.391,46.1283 -48.4625,31.1838 -85.5113,76.5031 -110.98,135.79 -25.4653,59.453 -38.5186,123.358 -38.8293,191.541 -0.366112,74.5172 13.439,139.619 41.7457,195.134 28.1424,55.6847 68.3861,97.9876 120.737,127.078 52.3487,29.0907 110.112,43.7531 173.296,44.1495 71.5151,0.251814 131.713,-17.6341 180.756,-53.8292 49.0411,-36.1951 83.3253,-87.1346 102.842,-153.153l-93.071 -22.3775c-16.9287,51.97 -41.1063,89.7296 -72.867,113.288 -31.5946,23.5562 -71.3954,35.2521 -119.242,34.9199 -55.0132,-0.20538 -100.752,-13.5765 -137.555,-40.1044 -36.8059,-26.6958 -62.5926,-62.0837 -77.3746,-106.667 -14.6105,-44.4174 -21.9114,-90.2975 -21.7328,-137.308 0.439334,-60.8496 9.51177,-114.016 27.5602,-159.171 17.8788,-45.3193 45.6265,-79.1427 83.2449,-101.302 37.4488,-22.3239 77.9301,-33.3644 121.606,-33.1269 53.013,0.241098 97.7912,15.7964 134.335,46.6623 36.7094,30.698 61.3407,76.2745 74.06,136.395z"/>
+   <glyph unicode="E" horiz-adv-x="666" d="M79.0963 -0.387543l3.77363 715.767 517.609 -2.63422 -0.52863 -84.5219 -422.834 2.1681 -1.12334 -219.256 396.076 -2.04487 -0.421475 -83.9307 -396.076 2.04487 -1.28586 -243.657 439.454 -2.2306 -0.52863 -84.5219 -534.114 2.81817z"/>
+   <glyph unicode="H" horiz-adv-x="721" d="M79.9892 -0.32325l2.42884 715.088 94.5926 -0.333966 -0.909029 -293.643 371.598 -1.33765 1.04119 293.745 94.5908 -0.333966 -2.43063 -715.088 -94.5908 0.333966 1.12155 336.955 -371.6 1.33765 -1.25192 -337.057 -94.5908 0.333966z"/>
+   <glyph unicode="I" horiz-adv-x="277" d="M93.3175 0.333966l-2.57886 715.765 94.6908 0.308963 2.57886 -715.765 -94.6908 -0.308963z"/>
+   <glyph unicode="K" horiz-adv-x="666" d="M73.1974 -0.114298l1.27514 715.57 94.7391 -0.175019 -0.660787 -354.804 355.988 354.221 128.43 -0.217881 -300.724 -289.402 312.567 -426.219 -124.853 0.169662 -254.167 362.635 -117.427 -113.891 -0.426833 -248.065 -94.7391 0.176805z"/>
+   <glyph unicode="L" horiz-adv-x="556" d="M73.0974 -0.428619l3.87543 715.136 94.5962 -0.475053 -3.32001 -630.773 352.173 -1.76091 -0.389329 -84.3415 -446.935 2.21453z"/>
+   <glyph unicode="R" horiz-adv-x="721" d="M78.5819 -0.44112l4.90233 715.624 317.505 -2.21274c63.7803,-0.398258 112.221,-7.16329 145.325,-20.2969 33.1019,-13.1318 59.5191,-36.0326 79.0195,-68.7415 19.7308,-32.6697 29.38,-68.7273 29.0425,-108.037 -0.19645,-50.7431 -17.0483,-93.5032 -50.1288,-127.977 -33.1787,-34.6074 -84.1182,-56.517 -152.76,-65.359 24.8563,-12.2906 43.9424,-24.3027 56.7884,-36.1094 27.5584,-25.585 53.4773,-57.3939 77.9301,-95.7606l123.217 -195.62 -119.094 0.826877 -93.8479 149.558c-27.3584,43.1566 -49.8966,76.2192 -67.4789,99.0878 -17.8145,22.8329 -33.7269,38.9257 -47.8357,48.1464 -14.1087,9.21888 -28.5103,15.7678 -43.0315,19.3146 -10.7726,2.46992 -28.3942,3.73613 -52.7666,3.93258l-109.891 0.732224 -2.13774 -317.969 -94.7587 0.86081zm97.5197 399.06l203.546 -1.40908c43.2423,-0.310749 77.28,4.0058 101.686,12.6443 24.5027,8.77419 43.1208,23.0579 55.8919,42.6208 12.8693,19.6968 19.4146,40.8992 19.5629,64.0714 0.2536,33.8073 -11.9406,61.8247 -36.3112,83.8575 -24.4688,21.8989 -63.1088,33.0787 -116.154,33.5073l-226.582 1.46088 -1.63947 -236.753z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Arial";font-variant:normal;font-style:normal;font-weight:normal;src:url("#FontID0") format(svg)}
+    .fil0 {fill:#EE7A2D}
+    .fnt0 {font-weight:normal;font-size:1159.68px;font-family:'Arial'}
+    .fnt1 {font-weight:normal;font-size:1159.68px;font-family:'Arial'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Camada_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <text x="9646.63" y="856.56"  class="fil0 fnt0"><tspan rotate="359">C</tspan></text>
+  <text x="10809.53" y="868.16"  class="fil0 fnt0"><tspan rotate="7">L</tspan></text>
+  <text x="11768.33" y="1007.32"  class="fil0 fnt0"><tspan rotate="13">I</tspan></text>
+  <text x="12404.35" y="1146.48"  class="fil0 fnt0"><tspan rotate="19">C</tspan></text>
+  <text x="13497.68" y="1529.18"  class="fil0 fnt0"><tspan rotate="27">K</tspan></text>
+  <text x="14190.01" y="1888.68"  class="fil0 fnt0"><tspan rotate="30"> </tspan></text>
+  <text x="14465.82" y="2051.03"  class="fil0 fnt0"><tspan rotate="33"> </tspan></text>
+  <text x="14741.63" y="2213.39"  class="fil0 fnt0"><tspan rotate="36"> </tspan></text>
+  <text x="15017.44" y="2398.94"  class="fil0 fnt0"><tspan rotate="38">H</tspan></text>
+  <text x="15913.61" y="3129.54"  class="fil0 fnt0"><tspan rotate="46">E</tspan></text>
+  <text x="16664.64" y="3929.72"  class="fil0 fnt0"><tspan rotate="54">R</tspan></text>
+  <text x="17328.88" y="4892.25"  class="fil0 fnt0"><tspan rotate="60">E</tspan></text>
+  <g transform="matrix(-1 -0 -0 -1 45742.7 54848.8)">
+   <text x="35701.57" y="35945"  class="fil0 fnt1"><tspan rotate="359">C</tspan></text>
+   <text x="36864.6" y="35952.49"  class="fil0 fnt1"><tspan rotate="7">L</tspan></text>
+   <text x="37824.71" y="36092.06"  class="fil0 fnt1"><tspan rotate="13">I</tspan></text>
+   <text x="38457.05" y="36234.48"  class="fil0 fnt1"><tspan rotate="19">C</tspan></text>
+   <text x="39556.03" y="36618.05"  class="fil0 fnt1"><tspan rotate="27">K</tspan></text>
+   <text x="40243.66" y="36972.17"  class="fil0 fnt1"><tspan rotate="30"> </tspan></text>
+   <text x="40523.66" y="37131.66"  class="fil0 fnt1"><tspan rotate="33"> </tspan></text>
+   <text x="40798.86" y="37299.69"  class="fil0 fnt1"><tspan rotate="36"> </tspan></text>
+   <text x="41066.11" y="37480.25"  class="fil0 fnt1"><tspan rotate="38">H</tspan></text>
+   <text x="41967.16" y="38216.1"  class="fil0 fnt1"><tspan rotate="46">E</tspan></text>
+   <text x="42721.23" y="39017.18"  class="fil0 fnt1"><tspan rotate="54">R</tspan></text>
+   <text x="43382.02" y="39973.69"  class="fil0 fnt1"><tspan rotate="60">E</tspan></text>
+  </g>
+  <g transform="matrix(0.0277874 -0.999614 0.999614 0.0277874 -36080.5 44521.2)">
+   <text x="35701.57" y="35945"  class="fil0 fnt1"><tspan rotate="359">C</tspan></text>
+   <text x="36864.6" y="35952.49"  class="fil0 fnt1"><tspan rotate="7">L</tspan></text>
+   <text x="37824.71" y="36092.06"  class="fil0 fnt1"><tspan rotate="13">I</tspan></text>
+   <text x="38457.05" y="36234.48"  class="fil0 fnt1"><tspan rotate="19">C</tspan></text>
+   <text x="39556.03" y="36618.05"  class="fil0 fnt1"><tspan rotate="27">K</tspan></text>
+   <text x="40243.66" y="36972.17"  class="fil0 fnt1"><tspan rotate="30"> </tspan></text>
+   <text x="40523.66" y="37131.66"  class="fil0 fnt1"><tspan rotate="33"> </tspan></text>
+   <text x="40798.86" y="37299.69"  class="fil0 fnt1"><tspan rotate="36"> </tspan></text>
+   <text x="41066.11" y="37480.25"  class="fil0 fnt1"><tspan rotate="38">H</tspan></text>
+   <text x="41967.16" y="38216.1"  class="fil0 fnt1"><tspan rotate="46">E</tspan></text>
+   <text x="42721.23" y="39017.18"  class="fil0 fnt1"><tspan rotate="54">R</tspan></text>
+   <text x="43382.02" y="39973.69"  class="fil0 fnt1"><tspan rotate="60">E</tspan></text>
+  </g>
+  <g transform="matrix(-0.0277874 0.999614 -0.999614 -0.0277874 55763.3 -24784.3)">
+   <text x="35701.57" y="35945"  class="fil0 fnt1"><tspan rotate="359">C</tspan></text>
+   <text x="36864.6" y="35952.49"  class="fil0 fnt1"><tspan rotate="7">L</tspan></text>
+   <text x="37824.71" y="36092.06"  class="fil0 fnt1"><tspan rotate="13">I</tspan></text>
+   <text x="38457.05" y="36234.48"  class="fil0 fnt1"><tspan rotate="19">C</tspan></text>
+   <text x="39556.03" y="36618.05"  class="fil0 fnt1"><tspan rotate="27">K</tspan></text>
+   <text x="40243.66" y="36972.17"  class="fil0 fnt1"><tspan rotate="30"> </tspan></text>
+   <text x="40523.66" y="37131.66"  class="fil0 fnt1"><tspan rotate="33"> </tspan></text>
+   <text x="40798.86" y="37299.69"  class="fil0 fnt1"><tspan rotate="36"> </tspan></text>
+   <text x="41066.11" y="37480.25"  class="fil0 fnt1"><tspan rotate="38">H</tspan></text>
+   <text x="41967.16" y="38216.1"  class="fil0 fnt1"><tspan rotate="46">E</tspan></text>
+   <text x="42721.23" y="39017.18"  class="fil0 fnt1"><tspan rotate="54">R</tspan></text>
+   <text x="43382.02" y="39973.69"  class="fil0 fnt1"><tspan rotate="60">E</tspan></text>
+  </g>
+  <circle class="fil0" cx="7672.05" cy="683.64" r="114.36"/>
+  <circle class="fil0" cx="18974.62" cy="7621.21" r="114.36"/>
+  <circle class="fil0" cx="12051.74" cy="18961.01" r="114.36"/>
+  <circle class="fil0" cx="711.97" cy="12003.02" r="114.36"/>
+ </g>
+</svg>

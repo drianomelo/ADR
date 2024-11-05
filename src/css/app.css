@@ -1,0 +1,47 @@
+@import url(home.css);
+
+@font-face {
+  font-family: "Pinkend";
+  src: url(../font/Pinkend.otf);
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --clr-blue-royal: #4169e1;
+  --clr-blue-electric: #adff00;
+  --clr-blue-dark: #003366;
+  --clr-blue-sky: #87ceeb;
+
+  --clr-orange-intense: #9b82ff;
+  --clr-orange-coral: #ff6347;
+
+  --clr-yellow-gold: #ffc300;
+
+  --clr-gray-metallic: #a9a9a9;
+
+  --clr-white: #ffffff;
+  --clr-black: #000000;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  background-color: var(--clr-black);
+  color: var(--clr-white);
+  font-family: "Raleway", sans-serif;
+  font-size: 1.6rem;
+  font-weight: 400;
+  overflow-x: hidden;
+
+  width: 100%;
+  height: 100vh;
+
+  position: relative;
+}

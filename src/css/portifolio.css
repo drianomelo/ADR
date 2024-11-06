@@ -1,0 +1,131 @@
+.portifolio {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 2rem;
+}
+
+.portifolio__text {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.portifolio__title,
+.portifolio__subtitle {
+  color: var(--clr-green);
+  font-size: 4.4rem;
+  font-weight: 900;
+
+  position: relative;
+}
+
+.portifolio__title > span {
+  color: var(--clr-purple);
+  font-family: "Pinkend";
+
+  position: absolute;
+  top: -1.8rem;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.portifolio__cards {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 6.5rem;
+  margin-top: 6rem;
+}
+
+.portifolio__card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 350px;
+}
+
+.portifolio__img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  position: relative;
+}
+
+.portifolio__projeto {
+  width: 305px;
+  height: 500px;
+
+  background-size: cover;
+  border-radius: 1rem;
+
+  position: relative;
+  top: -3rem;
+  z-index: 10;
+}
+
+.portifolio__pc {
+  width: 100%;
+
+  position: absolute;
+  bottom: 0;
+}
+
+.portifolio__infos {
+  width: 100%;
+}
+
+.portifolio__tags {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  margin-top: 1.2rem;
+}
+
+.portifolio__tag {
+  padding: 1rem;
+
+  background-color: var(--clr-gray-dark);
+  border-radius: 2rem;
+}
+
+.portifolio__button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 40px;
+  height: 40px;
+
+  border: 2px solid var(--clr-white);
+  border-radius: 50%;
+  font-size: 1.4rem;
+}
+
+.portifolio__button > i {
+  transform: rotate(-45deg);
+}
+
+.portifolio__footer {
+  margin-top: 1.2rem;
+}
+
+.portifolio__name {
+  color: var(--clr-green);
+  font-weight: 800;
+  font-size: 2.4rem;
+  text-transform: uppercase;
+  margin-bottom: 0.3rem;
+}
+
+.portifolio__desc {
+  color: var(--clr-white);
+  font-weight: 300;
+  font-size: 1.6rem;
+  text-transform: uppercase;
+}

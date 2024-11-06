@@ -1,4 +1,6 @@
 @import url(home.css);
+@import url(portifolio.css);
+@import url(process.css);
 
 @font-face {
   font-family: "Pinkend";
@@ -19,6 +21,7 @@
   --clr-orange-dark: #773c14;
 
   --clr-gray-metallic: #a9a9a9;
+  --clr-gray-dark: #151515;
   --clr-white: #ffffff;
   --clr-black: #000000;
 }

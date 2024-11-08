@@ -1,0 +1,28 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  padding: 3rem;
+  padding-bottom: 0;
+
+  position: fixed;
+}
+
+.header__menu {
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+    gap: .7rem;
+}
+
+.header__menu > span {
+  width: 3rem;
+  height: 0.2rem;
+
+  background-color: var(--clr-white);
+}
+
+.header__menu > span:nth-child(2) {
+  width: 2.5rem;
+}

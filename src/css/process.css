@@ -152,6 +152,51 @@
   text-wrap: nowrap;
 }
 
+.process__cards{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.6rem;
+}
+
+.process__card{
+  background-color: var(--clr-gray);
+  width: 94%;
+  height: 20rem;
+  border: 1px solid var(--clr-gray-metallic);
+  border-radius: 3rem;
+  position: relative;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: end;
+  justify-content: center;
+  padding-right: 1.5rem;
+}
+
+.process__card-span {
+  font-size: 1.8rem;
+  margin-bottom: 1rem;
+  font-weight: 800;
+}
+.process__card-p {
+  font-size: 1.5rem;
+  width: 19rem;
+
+}
+.process__card > b {
+  color: var(--clr-white);
+  font-weight: 600;
+}
+
+.process__card > img {
+  position: absolute;
+  width: 17rem;
+  top: -0.8rem;
+  left: -3rem;
+  fill: var(--clr-green);
+}
+
 @keyframes spin {
   0% {
     transform: rotate(0);

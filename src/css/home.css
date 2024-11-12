@@ -96,8 +96,8 @@
   color: var(--clr-orange-dark);
   text-decoration: none;
 
-  position: absolute;
   margin-top: 15rem;
+  position: absolute;
 }
 
 .home__button > i {

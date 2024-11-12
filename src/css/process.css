@@ -120,6 +120,38 @@
   font-weight: 600;
 }
 
+.process__button {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: center;
+  align-items: center;
+  gap: 1.5rem;
+  width: 23rem;
+  height: 6rem;
+
+  background-image: linear-gradient(
+    to right,
+    var(--clr-orange-low),
+    var(--clr-orange-high)
+  );
+  border: 2px solid var(--clr-orange-low);
+  color: var(--clr-orange-dark);
+  text-decoration: none;
+  border-radius: 1rem;
+}
+
+.process__button > i {
+  font-size: 1.6rem;
+  opacity: 0.6;
+}
+
+.process__button > h4 {
+  font-size: 1.4rem;
+  font-weight: 700;
+  text-align: center;
+  text-wrap: nowrap;
+}
+
 @keyframes spin {
   0% {
     transform: rotate(0);

@@ -157,6 +157,7 @@
   flex-direction: column;
   align-items: center;
   gap: 1.6rem;
+  padding-bottom: 3rem;
 }
 
 .process__card{
@@ -194,7 +195,13 @@
   width: 17rem;
   top: -0.8rem;
   left: -3rem;
-  fill: var(--clr-green);
+}
+
+.process__text-end{
+  color: var(--clr-purple);
+  font-family: "Pinkend";
+  font-size: 3rem;
+  padding-top: 2rem;
 }
 
 @keyframes spin {

@@ -1,0 +1,24 @@
+.footer{
+   width: 90%;
+   display: flex;
+    justify-content: center;
+    margin: 0 auto;
+
+    padding-bottom: 3rem;
+}
+
+.footer__list{
+    display: flex;
+    list-style: none;
+    gap: 1.3rem;
+}
+.footer__list > a{
+    color: var(--clr-white);
+    font-style: none;
+    text-decoration: none;
+}
+.footer__list > a:hover{
+    color: var(--clr-orange-high);
+    font-style: none;
+    text-decoration: none;
+}

@@ -4,6 +4,7 @@
 @import url(portifolio.css);
 @import url(process.css);
 @import url(packages.css);
+@import url(faq.css);
 
 @font-face {
   font-family: "Pinkend";
@@ -24,6 +25,7 @@
   --clr-orange-dark: #773c14;
 
   --clr-gray-metallic: #a9a9a9;
+  --clr-gray-light: #525252;
   --clr-gray-dark: #151515;
   --clr-white: #ffffff;
   --clr-black: #000000;
@@ -60,11 +62,13 @@ body {
 .title > span {
   color: var(--clr-purple);
   font-family: "Pinkend";
+  text-wrap: nowrap;
 
   position: absolute;
   top: -1.8rem;
   left: 50%;
   transform: translateX(-50%);
+
 }
 
 .subtitle {

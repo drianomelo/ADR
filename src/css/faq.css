@@ -1,0 +1,110 @@
+.faq{
+    width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.faq__text{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.faq__list{
+    width: 100%;
+    list-style:  none;
+    display: flex;
+    flex-direction: column;
+    gap: 4rem;
+
+    align-items: center;
+}
+ .faq__item{
+    background-color: var(--clr-gray-dark);
+    border-radius: 2rem;
+
+    width: 90%;
+    margin-top: 1rem;
+
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    padding: 0 2.5rem;
+ }
+
+ .faq__title{
+    width: 100%;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    margin-bottom: 1rem;
+   
+ }
+ 
+ .faq__title > h3{
+    text-wrap: nowrap;
+    text-transform: uppercase;
+
+    font-size: 1.5rem;
+    padding-top: 2.5rem;
+    padding-bottom: 1.5rem;
+ }
+ 
+ .faq__desc{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+
+    height: 0;
+
+    overflow: hidden;
+    border-top: 0 solid var(--clr-gray-light);
+
+    transition: all .3s;
+    
+ }
+
+ .faq__desc--active{
+    height: fit-content;
+    border-width: 1px;
+    padding-top: 1.3rem;
+    margin-bottom: 2rem;
+
+    
+ }
+
+ .faq__desc > span{
+    display: inline-block;
+    position: relative;
+    padding-left: 2.5rem;
+ }
+
+
+ .faq__desc > span::before{
+    list-style: circle;
+    color: var(--clr-gray-metallic);
+
+    content: "•"; /* Substitua pelo marcador desejado */
+    position: absolute;
+    left: 0;
+    color: var(--clr-gray-metallic); /* Cor do marcador */
+    font-size: 3rem; /* Tamanho do marcador */
+ }
+
+ .faq__button{
+    background: none;
+    border: none;
+}
+
+ .faq__button > i{
+    color: var(--clr-white);
+    font-size: 2rem;
+    transition: all .3s;
+}

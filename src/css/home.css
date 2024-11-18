@@ -13,29 +13,6 @@
   align-items: center;
 }
 
-.home__title,
-.home__subtitle {
-  color: var(--clr-green);
-  font-size: 4.4rem;
-  font-weight: 900;
-
-  position: relative;
-}
-
-.home__title > span {
-  color: var(--clr-purple);
-  font-family: "Pinkend";
-
-  position: absolute;
-  top: -1.8rem;
-  left: 50%;
-  transform: translateX(-50%);
-}
-
-.home__subtitle {
-  margin-top: -1.2rem;
-}
-
 .home__list {
   display: flex;
   flex-direction: column;
@@ -118,7 +95,7 @@
 
 .home__button > img {
   width: 120%;
-  margin-top: .2rem;
+  margin-top: 0.2rem;
   position: absolute;
 
   animation: spin 30s linear infinite;

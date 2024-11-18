@@ -16,11 +16,16 @@ quests.forEach((qst) => {
 function verificaQuestao(quest, response, active) {
     const questIcon = quest.querySelector("button i");
     const title = quest.querySelector(".faq__title h3")
-    console.log(title);
     
-    const iconsActive = document.querySelectorAll(".quest button i");
+    const iconsActive = document.querySelectorAll(".faq__item button i");
+    const titles = document.querySelectorAll(".faq__title h3");
 
-    iconsActive.forEach((icon) => icon.style.transform="rotate(180deg)");
+    titles.forEach((title) => title.style.color="var(--clr-white)");
+    
+    iconsActive.forEach(icon => {
+        icon.style.transform="rotate(0deg)";
+        icon.style.color="var(--clr-white)";
+    })
 
     if (active) {
         active.style.height = 0;
